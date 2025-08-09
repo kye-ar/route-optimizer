@@ -1,0 +1,3 @@
+pickup_address_line_1,pickup_lat,pickup_lng,pickup_time_from,pickup_time_to,dropoff_address_line_1,dropoff_lat,dropoff_lng,dropoff_time_from,dropoff_time_to
+Invalid Job,invalid_lat,invalid_lng,09:00:00,11:00:00,Invalid Dropoff,also_invalid,bad_lng,10:00:00,14:00:00
+Outside UK,40.7128,-74.0060,09:30:00,11:30:00,New York Drop,40.7589,-73.9851,11:00:00,15:00:00

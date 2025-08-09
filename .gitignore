@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Python development
+*.env
+*.venv
+*.egg-info/
+*.egg
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# Compiled files
+*.so
+
+# Local environment files
+.env
+*.env
+.DS_Store
+
+# macOS generated files
+*.DS_Store
+
+# Backup files
+*.swp
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# CSV and other large data files
+*.json
+
+# Any data or extra files generated during project execution
+output/
+results/
