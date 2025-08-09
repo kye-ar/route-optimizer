@@ -21,7 +21,7 @@ Follow these steps to set up the project on your local machine.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/deliveryappuk/route_optimizer.git
+   git clone [https://github.com/deliveryappuk/route_optimizer.git](https://github.com/kye-ar/route-optimizer.git)
    cd route_optimizer
    ```
 
